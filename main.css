@@ -1,0 +1,154 @@
+*,
+*:after,
+*:before {
+	box-sizing: border-box;
+}
+
+html,body {
+	height: 100%;
+	width: 100%;
+	font-family: sans-serif;
+}
+body {
+    background-color: #e9ebee;
+}
+
+.wrapper {
+	max-width: 700px;
+	margin-left: auto;
+
+}
+
+h1 {
+	text-align: center;
+}
+
+.box {
+	height: 100%;
+    width: 100%;
+	background-color: #e7e7e7;
+	border: 1px solid rgba(0,0,0,0.87);
+
+}
+
+/* Add Custom CSS Below this line */
+.container {
+  
+ 
+  height: 600px;
+    width: auto;
+
+}
+header {
+  background-color: #4267b2;
+  height: 40px;
+}
+
+  
+
+
+#wrapper{
+    margin-top: 13px;
+}
+
+#main,
+#menu,
+#sidebar,
+#onlinebar{
+  height: 1000px;
+  background-color: #e9ebee;
+    margin-top: 10px;
+    
+}
+.white-text {
+ color: white !important; 
+}
+#header {
+    background-color: #4267b2;
+    color: white;
+}
+#header ul .glyphicon {
+    font-size: 20px;
+}
+.iconcolor
+{
+   color: black;
+}
+.pull-right {
+    float: right!important;
+}
+.list-heading {
+    padding: 20px 15px 0 15px;
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.image-post {
+    margin-bottom: 15px;
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar {
+    display: none;
+}
+
+p {
+	margin: 0 0 0px;
+}
+.comment {
+    margin: 0;
+}
+.media-object {
+    height: 32px;
+    width: 32px;
+}
+.img-rounded
+{
+   height: 16px;
+    width: 16px; 
+}
+#side{
+    background-color: white;
+    border-color: white;   
+ 
+}
+
+.list-group-item {
+    background-color: #e9ebee;
+}
+.badge {
+    margin-left:30px;
+    
+}
+.online {
+    border-radius: 50%;
+    height: 8px;
+    width: 8px;
+   
+}
+.img-size {
+    height: 32px;
+    width: 32px;
+}
+.panel-body2 {
+    height: 300px;
+    background-color: white;
+}
+ul#line li {
+    display: inline;
+}
+.active {
+    color: black;
+    display: inline-block;
+}
+ h5{
+    text-align: right; 
+    margin: 0; 
+    padding: 0;
+}
